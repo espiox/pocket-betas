@@ -1,12 +1,14 @@
 # pocket-betas
-Pocket Beta Status
 
 Current JT betas for Analogue Pocket:
 
 Black Tiger (jtbtiger): 
 https://www.patreon.com/posts/83591490?utm_campaign=postshare_fan
 
-Haunted Castle (jtcastle: 
+Aliens (jtaliens):
+https://www.patreon.com/posts/82897421?utm_campaign=postshare_fan
+
+Haunted Castle (jtcastle): 
 https://www.patreon.com/posts/81507227?utm_campaign=postshare_fan
 
 Rastan (jtrastan): 
