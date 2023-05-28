@@ -1,7 +1,11 @@
-### Current JT Beta Cores (Patrons only)
-Below you'll find a complete list of all of Jotego's work-in-progress beta cores. I'll keep this list up-to-date as new cores are released in beta and made public - I'm not associated with Jotego, aside from being a Patreon supporter.
+# Analogue Pocket Beta Core Status
+Below is list of all of [Jotego](https://www.patreon.com/jotego)'s work-in-progress beta cores for Analogue Pocket, and links to where to get the files. I'll keep this page up-to-date as new cores are released - if you’d like to be notified when this page updates, you can watch this GitHub repo. 
 
-Patrons can access these betas by downloading the .zip files from the posts linked below. Beta cores are usually released to the public after a few weeks, but please consider supporting [Jotego's Patreon](https://www.patreon.com/jotego) to fund future FPGA core development.
+_I'm not associated with Jotego, aside from being a Patreon supporter. If you spot a mistake or have a feature request, please raise an issue and I'll look into it._
+
+
+## Current JT Beta Cores (Patrons only)
+Patrons can access these betas by downloading the .zip files from the posts linked below.
 | **Games/Platform** | **Core Name**           | **Release date**          | **Notes**                                                                                   |
 |--------------------|-------------------------|---------------------------|---------------------------------------------------------------------------------------------|
 | Black Tiger        | [jtbtiger](https://www.patreon.com/posts/black-tiger-ngp-83591490)                | 26th May 2023             |                                                                                             |
@@ -11,7 +15,11 @@ Patrons can access these betas by downloading the .zip files from the posts link
 | CPS2               | jtcps2 ([Beta 1](https://www.patreon.com/posts/bug-fixes-mister-78837531), [Beta 2](https://www.patreon.com/posts/out-run-pr-cps2-80484192)) | 24th March 2023 (Updated) | The second beta doesn't include all the game JSONs from the first, so you'll need both zips |
 
 
-### Public JT Cores
+## When will these cores be released for everyone?
+Typically cores are made available to everyone after a few weeks - the current average is around **83 days**. If you enjoy the work José and his team does I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+
+
+## Public JT Cores
 These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), the updater apps (by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) or [RetroDriven](https://github.com/RetroDriven/Pocket_Updater)), and [JTBIN](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links below).
 | **Games/Platform**        | **Core Name** | **Public Release** |
 |---------------------------|---------------|--------------------|
@@ -45,9 +53,8 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Ghosts’n Goblins          | [jtgng](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgng.zip)         | 2nd December 2022  |
 
 
-### These cores all have weird names in my Pocket menu!
-If you want your JT cores to have more accurate names, manufacturer info and images, there's two ways to fix that:
-* [Platform Overrides](https://github.com/dyreschlock/pocket-platform-images): Dyreschlock's repo has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card.
-* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync): In addition to installing and updating cores, Pocket Sync is the easiest way to edit platform information, download image packs, or make your own. It can help grab any necessary files needed to run the cores, too.
-
-If you've spotted a mistake or have a feature request, please raise an issue and I'll look into it.
+## These cores all have weird names in my Pocket menu!
+If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
+* The Pocket updater apps by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) and [RetroDriven](https://github.com/RetroDriven/Pocket_Updater) now include a setting to automatically correct JT platform names when installing.
+* In addition to installing and updating cores, [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) is the easiest way to manually edit platform info, download image packs, or make your own. It can help grab any necessary files needed to run the cores, too.
+* Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card.
