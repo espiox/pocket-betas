@@ -8,7 +8,8 @@ _I'm not associated with Jotego, aside from being a Patreon supporter. If you sp
 Patrons can access these betas by downloading the .zip files from the Patreon posts linked below.
 | **Games/Platform** | **Core Name**                                                         | **Release date**   | **Notes**                         |
 |--------------------|-----------------------------------------------------------------------|--------------------|-----------------------------------|
-| Aliens<br />Super Contra | [jtaliens](https://www.patreon.com/posts/84325903)) | 9th June 2023 (Updated) | Aliens needs updated ROMs for the second beta. Future updates will support Thunder Cross and Gang Busters. |
+| SEGA System 16B    | [jts16b](https://www.patreon.com/posts/system-16b-and-85014053)       | 23rd June 2023     |                                   |
+| Aliens<br />Super Contra | [jtaliens](https://www.patreon.com/posts/84325903))             | 9th June 2023 (Updated) | Aliens needs updated ROMs for the second beta. Future updates will support Thunder Cross and Gang Busters. |
 | Black Tiger        | [jtbtiger](https://www.patreon.com/posts/black-tiger-ngp-83591490)    | 26th May 2023      |                                   |
 | Rastan             | [jtrastan](https://www.patreon.com/posts/arkanoid-revenge-82180784)   | 28th April 2023    |                                   |
 | Haunted Castle     | [jtcastle](https://www.patreon.com/posts/haunted-castle-81507227)     | 14th April 2023    |                                   |
