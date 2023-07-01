@@ -11,8 +11,6 @@ Patrons can access these betas by downloading the .zip files from the Patreon po
 | Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/crime-fighters-85372318) | 30th June 2023 (Updated) | Future updates will support Thunder Cross and Gang Busters. |
 | SEGA System 16B    | [jts16b](https://www.patreon.com/posts/system-16b-and-85014053)       | 23rd June 2023     |                                   |
 | Black Tiger        | [jtbtiger](https://www.patreon.com/posts/black-tiger-ngp-83591490)    | 26th May 2023      |                                   |
-| Rastan             | [jtrastan](https://www.patreon.com/posts/arkanoid-revenge-82180784)   | 28th April 2023    |                                   |
-| Haunted Castle     | [jtcastle](https://www.patreon.com/posts/haunted-castle-81507227)     | 14th April 2023    |                                   |
 | CPS2               | jtcps2 ([Beta 1](https://www.patreon.com/posts/bug-fixes-mister-78837531), [Beta 2](https://www.patreon.com/posts/out-run-pr-cps2-80484192)) | 24th March 2023 (Updated) | The second beta doesn't include all the game JSONs from the first, so you'll need both zips |
 
 
