@@ -8,8 +8,8 @@ _I'm not associated with Jotego, aside from being a Patreon supporter. If you sp
 Patrons can access these betas by downloading the .zip files from the Patreon posts linked below.
 | **Games/Platform** | **Core Name**                                                         | **Release date**   | **Notes**                         |
 |--------------------|-----------------------------------------------------------------------|--------------------|-----------------------------------|
+| SEGA System 16     | [jts16 + jts16b](https://www.patreon.com/posts/system-16-85773714)    | 8th July 2023 (Updated) | Second beta includes both 16A and 16B cores |
 | Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/crime-fighters-85372318) | 30th June 2023 (Updated) | Future updates will support Thunder Cross and Gang Busters. |
-| SEGA System 16B    | [jts16b](https://www.patreon.com/posts/system-16b-and-85014053)       | 23rd June 2023     |                                   |
 | Black Tiger        | [jtbtiger](https://www.patreon.com/posts/black-tiger-ngp-83591490)    | 26th May 2023      |                                   |
 | CPS2               | jtcps2 ([Beta 1](https://www.patreon.com/posts/bug-fixes-mister-78837531), [Beta 2](https://www.patreon.com/posts/out-run-pr-cps2-80484192)) | 24th March 2023 (Updated) | The second beta doesn't include all the game JSONs from the first, so you'll need both zips |
 
@@ -57,5 +57,5 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 ## These cores all have weird names in my Pocket menu!
 If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
 * The Pocket updater apps by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) and [RetroDriven](https://github.com/RetroDriven/Pocket_Updater) now include a setting to automatically correct JT platform names when installing.
-* In addition to installing and updating cores, [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) is the easiest way to manually edit platform info, download image packs, or make your own. It can help grab any necessary files needed to run the cores, too.
-* Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card.
+* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pre-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images. It can help grab any necessary files needed to run the cores, too.
+* Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card (these are also available via Pocket Sync, see above).
