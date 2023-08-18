@@ -8,6 +8,7 @@ _I'm not associated with Jotego, aside from being a Patreon supporter. If you sp
 Patrons can access these betas by downloading the .zip files from the Patreon posts linked below.
 | **Games/Platform** | **Core Name**                                                         | **Release date**   | **Notes**                         |
 |--------------------|-----------------------------------------------------------------------|--------------------|-----------------------------------|
+| Teenage Mutant Ninja Turtles | [jttmnt](https://www.patreon.com/posts/teenage-mutant-87890142) | 18th August 2023 | Future updates will likely support Missing in Action |
 | The Simpsons       | [jtsimson](https://www.patreon.com/posts/simpsons-beta-87539112)      | 11th August 2023   |                                   |
 | SEGA System 16     | [jts16 + jts16b](https://www.patreon.com/posts/system-16-85773714)    | 8th July 2023 (Updated) | Second beta includes both 16A and 16B cores |
 | Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/crime-fighters-85372318) | 30th June 2023 (Updated) | Future updates will support Thunder Cross and Gang Busters. |
@@ -20,7 +21,7 @@ Typically cores are made available to everyone after a few weeks - the current a
 
 
 ## Public JT Cores
-These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), the updater apps (by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) or [RetroDriven](https://github.com/RetroDriven/Pocket_Updater)), and [JTBIN](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links below).
+These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), the updater apps by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) or [RetroDriven](https://github.com/RetroDriven/Pocket_Updater), and [JTBIN](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links below).
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release** |
 |---------------------------|----------------------------------------------------------------------------------------------|--------------------|
 | Black Tiger               | [jtbtiger](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbtiger.zip)      | 11th August 2023   |
