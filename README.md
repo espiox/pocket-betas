@@ -8,11 +8,10 @@ _I'm not associated with Jotego, aside from being a Patreon supporter. If you sp
 Patrons can access these betas by downloading the .zip files from the Patreon posts linked below.
 | **Games/Platform** | **Core Name**                                                         | **Release date**   | **Notes**                         |
 |--------------------|-----------------------------------------------------------------------|--------------------|-----------------------------------|
-| Teenage Mutant Ninja Turtles | [jttmnt](https://www.patreon.com/posts/teenage-mutant-87890142) | 18th August 2023 | Future updates will likely support Missing in Action |
+| Teenage Mutant Ninja Turtles<br />Missing in Action | [jttmnt](https://www.patreon.com/posts/mia-green-beret-88226546) | 25th August 2023 (Updated) |  |
+| Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/mia-green-beret-88226546) | 25th August 2023 (Updated) | Future updates will support Thunder Cross and Gang Busters. |
 | The Simpsons       | [jtsimson](https://www.patreon.com/posts/simpsons-beta-87539112)      | 11th August 2023   | Updated with gfx fixes 12th August.                     |
 | SEGA System 16     | [jts16 + jts16b](https://www.patreon.com/posts/system-16-85773714)    | 8th July 2023 (Updated) | Second beta includes both 16A and 16B cores |
-| Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/crime-fighters-85372318) | 30th June 2023 (Updated) | Future updates will support Thunder Cross and Gang Busters. |
-| Black Tiger        | [jtbtiger](https://www.patreon.com/posts/black-tiger-ngp-83591490)    | 26th May 2023      |                                   |
 | CPS2               | jtcps2 ([Beta 1](https://www.patreon.com/posts/bug-fixes-mister-78837531), [Beta 2](https://www.patreon.com/posts/out-run-pr-cps2-80484192)) | 24th March 2023 (Updated) | The second beta doesn't include all the game JSONs from the first, so you'll need both zips |
 
 
