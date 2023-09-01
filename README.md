@@ -5,9 +5,12 @@ _I'm not associated with Jotego, aside from being a Patreon supporter. If you sp
 
 
 ## Current JT Beta Cores (Patrons only)
-Patrons can access these betas by downloading the .zip files from the Patreon posts linked below.
+Patrons can access these betas by downloading the .zip files from the Patreon posts linked below. 
+**UPDATE:** Starting with betas released in September 2023, beta core distribution is changing. You will need the jtbeta.zip in order to play (latest version available [here](https://www.patreon.com/posts/final-round-88590970)). Unzip and place the beta.bin file into Assets/[core]/common for each core. Once cores are released to the public, this file won't be needed.
 | **Games/Platform** | **Core Name**                                                         | **Release date**   | **Notes**                         |
 |--------------------|-----------------------------------------------------------------------|--------------------|-----------------------------------|
+| The Final Round    | [jttwin16](https://www.patreon.com/posts/final-round-88590970)        | 1st September 2023 | Requires jtbeta.zip, see above.   |
+| Tiger Road         | [jttora](https://www.patreon.com/posts/final-round-88590970)          | 1st September 2023 | Requires jtbeta.zip, see above.   |
 | Teenage Mutant Ninja Turtles<br />Missing in Action | [jttmnt](https://www.patreon.com/posts/mia-green-beret-88226546) | 25th August 2023 (Updated) |  |
 | Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/mia-green-beret-88226546) | 25th August 2023 (Updated) | Future updates will support Thunder Cross and Gang Busters. |
 | The Simpsons       | [jtsimson](https://www.patreon.com/posts/simpsons-beta-87539112)      | 11th August 2023   | Updated with gfx fixes 12th August.                     |
