@@ -5,27 +5,38 @@ _I'm not associated with Jotego, aside from being a Patreon supporter. If you sp
 
 
 ## Current JT Beta Cores (Patrons only)
-Patrons can access these betas by downloading the .zip files from the Patreon posts linked below. 
-**UPDATE:** Starting with betas released/updated in September 2023, beta core distribution is changing. You will need the jtbeta.zip in order to play (latest version available [here](https://www.patreon.com/posts/final-round-88590970)). Unzip and place the beta.bin file into Assets/[core]/common for each core. Once cores are released to the public, this file won't be needed.
+Patrons can access these betas by downloading the .zip files from the links below. **UPDATE:** Starting with betas released/updated in September 2023, you will need the jtbeta.zip in order to use new beta releases - download the latest version [here](https://www.patreon.com/posts/final-round-88590970)). Once cores are released to the public, this file isn't needed.
+
+There are two ways to install these new beta cores:
+1. Via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) or the updater apps by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) or [RetroDriven](https://github.com/RetroDriven/Pocket_Updater). Just place the latest jtbeta.zip into the root of your SD card and run the updater - they'll handle the rest.
+2. If you're installing manually, you'll need to unzip jtbeta.zip and place the beta.bin file into "Assets/[core]/common" for each core.
+
+**These cores require the jtbeta.zip file and are also available via the updater apps**
+| **Games/Platform** | **Core Name**                                                         | **Release date**   |
+|--------------------|-----------------------------------------------------------------------|--------------------|
+| Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) |
+| The Simpsons       | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)    |
+| The Final Round    | [jttwin16](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttwin16.zip)    |
+| Tiger Road         | [jttora](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttora.zip)        |
+| Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/mia-green-beret-88226546) |
+
+**These cores do not require the zip and aren't available via updaters. Download from the linked Patreon posts below**
 | **Games/Platform** | **Core Name**                                                         | **Release date**   | **Notes**                         |
 |--------------------|-----------------------------------------------------------------------|--------------------|-----------------------------------|
-| Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 8th September 2023 (Updated) | Requires jtbeta.zip, see above. |
-| The Simpsons       | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)      | 2nd Spetember 2023   | Updated with gfx fixes 12th August. Requires jtbeta.zip, see above. |
-| The Final Round    | [jttwin16](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttwin16.zip)        | 1st September 2023 | Requires jtbeta.zip, see above.   |
-| Tiger Road         | [jttora](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttora.zip)          | 1st September 2023 | Requires jtbeta.zip, see above.   |
-| Aliens<br />Super Contra<br />Crime Fighters | [jtaliens](https://www.patreon.com/posts/mia-green-beret-88226546) | 25th August 2023 (Updated) | Future updates will support Thunder Cross and Gang Busters. |
-| SEGA System 16     | [jts16 + jts16b](https://www.patreon.com/posts/system-16-85773714)    | 8th July 2023 (Updated) | Second beta includes both 16A and 16B cores |
+| SEGA System 16A     | [jts16](https://www.patreon.com/posts/system-16-85773714)    | 8th July 2023 (Updated) |  |
 | CPS2               | jtcps2 ([Beta 1](https://www.patreon.com/posts/bug-fixes-mister-78837531), [Beta 2](https://www.patreon.com/posts/out-run-pr-cps2-80484192)) | 24th March 2023 (Updated) | The second beta doesn't include all the game JSONs from the first, so you'll need both zips |
 
 
 ## When will these cores be released for everyone?
-Typically cores are made available to everyone after a few weeks - the current average is around **80 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+Typically cores are made available to everyone after a few weeks - the current average is around **81 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
 
 
 ## Public JT Cores
 These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), the updater apps by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) or [RetroDriven](https://github.com/RetroDriven/Pocket_Updater), and [JTBIN](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links below).
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release** |
 |---------------------------|----------------------------------------------------------------------------------------------|--------------------|
+| SEGA System 16B           | [jts16b](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts16b.zip)          | 22nd September 2023 |
+| Super Hang-on             | [jtshanon](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshanon.zip)      | 22nd September 2023 |
 | Black Tiger               | [jtbtiger](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbtiger.zip)      | 11th August 2023   |
 | Haunted Castle            | [jtcastle](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcastle.zip)      | 30th June 2023     |
 | Rastan                    | [jtrastan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrastan.zip)      | 30th June 2023     |
