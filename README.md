@@ -14,7 +14,7 @@ Starting with betas released/updated in September 2023, you will need the jtbeta
 | **Games/Platform** | **Core Name**                                                         |
 |--------------------|-----------------------------------------------------------------------|
 | CPS1.5             | [jtcps15](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps15.zip) |
-| Bubble Bobble      | [jtninja](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip) |
+| Bubble Bobble<br />Tokio | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip) |
 | Bad Dudes vs. DragonNinja<br />Heavy Barrel | [jtninja](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtninja.zip) |
 | Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) |
 | The Simpsons       | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)    |
