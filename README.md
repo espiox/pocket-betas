@@ -16,7 +16,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 | Bubble Bobble<br />Tokio | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip) | 27th October 2023 |           |
 | Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 18th August 2023 |           |
 | The Simpsons       | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 |           |
-| Aliens<br />Super Contra<br />Crime Fighters<br />Gang Busters | [jtaliens](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtaliens.zip) | 12th May 2023 |           |
+| Aliens<br />Super Contra<br />Crime Fighters<br />Gang Busters<br />Thunder Cross | [jtaliens](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtaliens.zip) | 12th May 2023 |           |
 
 
 ## When will these cores be released for everyone?
@@ -28,12 +28,12 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| SEGA System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | I've made a combined S16A+B core available [here](https://github.com/espiox/jts16_complete) |
+| SEGA System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
 | The Final Round           | [jtfround](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtfround.zip)      | 17th November 2023  | Beta core was named jttwin16 - uninstall and replace with jtfround |
 | Bad Dudes vs. DragonNinja<br />Heavy Barrel | [jtninja](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtninja.zip) | 17th November 2023 |           |
 | CPS2                      | [jtcps2](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps2.zip)          | 27th October 2023   |           |
 | Tiger Road<br />F1 Dream  | [jttora](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttora.zip)          | 6th October 2023    | F1 Dream added 17th Nov 2023 |
-| SEGA System 16B           | [jts16b](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts16b.zip)          | 22nd September 2023 | I've made a combined S16A+B core available [here](https://github.com/espiox/jts16_complete) |
+| SEGA System 16B           | [jts16b](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts16b.zip)          | 22nd September 2023 | A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
 | Super Hang-on             | [jtshanon](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshanon.zip)      | 22nd September 2023 |           |
 | Black Tiger               | [jtbtiger](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbtiger.zip)      | 11th August 2023    |           |
 | Haunted Castle            | [jtcastle](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcastle.zip)      | 30th June 2023      |           |
