@@ -49,7 +49,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Side Arms                 | [jtsarms](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsarms.zip)        | 24th February 2023  |           |
 | Street Fighter            | [jtsf](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsf.zip)              | 24th February 2023  |           |
 | Trojan                    | [jttrojan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttrojan.zip)      | 24th February 2023  |           |
-| ~~Vulgus~~                | ~~jtvulgus~~                                                                                 | ~~24th February 2023~~ | Merged with jt1942 core (not available on Pocket yet) 17th Nov 2023 |
+| ~~Vulgus~~                | [jtvulgus](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip)              | ~~24th February 2023~~ | Merged with jt1942 core 17th Nov 2023. A backup can be downloaded [here](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip) until jt1942 is released on Pocket. |
 | Karnov                    | [jtkarnov](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkarnov.zip)      | 3rd February 2023   |           |
 | Contra                    | [jtcontra](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcontra.zip)      | 3rd February 2023   |           |
 | Double Dragon             | [jtdd](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtdd.zip)              | 2nd December 2022   |           |
