@@ -11,6 +11,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform** | **Core Name**                                                         | **Entered Beta** | **Notes** |
 |--------------------|-----------------------------------------------------------------------|------------------|-----------|
+| 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 22nd December 2023 | Vulgus was previously available as a separate core. |
 | Splatterhouse      | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)  | 31st October 2023 |           |
 | CPS1.5             | [jtcps15](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps15.zip)    | 27th October 2023 |           |
 | Bubble Bobble<br />Tokio | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip) | 27th October 2023 |           |
