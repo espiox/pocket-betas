@@ -2,7 +2,7 @@
 
 Below is a list of [Jotego](https://www.patreon.com/jotego)'s work-in-progress beta cores for Analogue Pocket. Starting in September 2023, a jtbeta.zip file is needed in order to use beta releases - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**[Latest jtbeta.zip file (31st Oct 2023)](https://www.patreon.com/posts/halloween-house-92002275)**
+**[Latest jtbeta.zip file (5th Jan 2024)](https://www.patreon.com/posts/neogeo-pocket-95909155)**
 
 There are two ways to install beta cores:
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), [mattpannella's Pocket Updater](https://github.com/mattpannella/pocket-updater-utility) (command line) or [RetroDriven's Pocket Updater](https://github.com/RetroDriven/Pocket_Updater) (GUI). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
@@ -11,10 +11,9 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform** | **Core Name**                                                         | **Entered Beta** | **Notes** |
 |--------------------|-----------------------------------------------------------------------|------------------|-----------|
+| Neo Geo Pocket     | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)  | 5th January 2024 | Black & white only, colour support coming later. [See notes and instructions here](https://www.patreon.com/posts/neogeo-pocket-95909155). |
 | 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 22nd December 2023 | Vulgus was previously available as a separate core. |
 | Splatterhouse      | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)  | 31st October 2023 |           |
-| CPS1.5             | [jtcps15](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps15.zip)    | 27th October 2023 |           |
-| Bubble Bobble<br />Tokio | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip) | 27th October 2023 |           |
 | Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 18th August 2023 |           |
 | The Simpsons       | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 |           |
 | Aliens<br />Super Contra<br />Crime Fighters<br />Gang Busters<br />Thunder Cross | [jtaliens](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtaliens.zip) | 12th May 2023 |           |
@@ -29,6 +28,8 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| CPS1.5                    | [jtcps15](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps15.zip)        | 5th January 2024    |           |
+| Bubble Bobble<br />Tokio | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip)           | 5th January 2024    |           |
 | SEGA System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
 | The Final Round           | [jtfround](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtfround.zip)      | 17th November 2023  | Beta core was named jttwin16 - uninstall and replace with jtfround |
 | Bad Dudes vs. DragonNinja<br />Heavy Barrel | [jtninja](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtninja.zip) | 17th November 2023 |           |
