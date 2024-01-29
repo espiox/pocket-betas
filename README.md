@@ -5,7 +5,7 @@ Below is a list of [Jotego](https://www.patreon.com/jotego)'s work-in-progress b
 **[Latest jtbeta.zip file (5th Jan 2024)](https://www.patreon.com/posts/neogeo-pocket-95909155)**
 
 There are two ways to install beta cores:
-* **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), [mattpannella's Pocket Updater](https://github.com/mattpannella/pocket-updater-utility) (command line) or [RetroDriven's Pocket Updater](https://github.com/RetroDriven/Pocket_Updater) (GUI). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
+* **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), [Pupdate](https://github.com/mattpannella/pupdate) or [Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
 * **Manual Mode:** Unzip jtbeta.zip and place the beta.bin file into "Assets/[core]/common" for each core.
 If you have issues with installation, ensure all your cores are up-to-date, and check [this article by Jotego](https://www.patreon.com/posts/unplayable-only-92457856).
 
@@ -72,7 +72,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 ## These cores all have weird names in my Pocket menu!
 If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
-* The Pocket updater apps by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) and [RetroDriven](https://github.com/RetroDriven/Pocket_Updater) now include a setting to automatically correct JT platform names when installing.
+* [Pupdate](https://github.com/mattpannella/pupdate) and [Pocket Updater](https://github.com/RetroDriven/Pocket_Updater) include a setting to automatically correct JT platform names when installing.
 * [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pre-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images. It can help grab any necessary files needed to run the cores, too.
 * Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card (these are also available via Pocket Sync, see above).
 
