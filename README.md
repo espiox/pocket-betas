@@ -12,16 +12,14 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 | **Games/Platform** | **Core Name**                                                         | **Entered Beta** | **Notes** |
 |--------------------|-----------------------------------------------------------------------|------------------|-----------|
 | Neo Geo Pocket     | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)  | 5th January 2024 | Monochrome only, colour support coming later. [Important: Make sure you read the instructions here](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 22nd December 2023 | Vulgus was previously available as a separate core. |
+| 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 22nd December 2023 | Vulgus was previously a separate core, which can be downloaded [here](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip) until jt1942 is out of beta. |
 | Splatterhouse      | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)  | 31st October 2023 |           |
 | Bubble Bobble<br />Tokio | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip)  | 27th October 2023 |           |
 | Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 18th August 2023 |           |
 | The Simpsons       | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 |           |
-| Aliens<br />Super Contra<br />Crime Fighters<br />Gang Busters<br />Thunder Cross | [jtaliens](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtaliens.zip) | 12th May 2023 |           |
-
 
 ## When will these cores be released for everyone?
-Typically cores are made available to the public after a few weeks - the current average is around **89 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **98 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
 
 
 ## Public JT Cores
@@ -29,8 +27,9 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Aliens<br />Super Contra<br />Crime Fighters<br />Gang Busters<br />Thunder Cross | [jtaliens](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtaliens.zip) | 2nd February 2024 |           |
 | CPS1.5                    | [jtcps15](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps15.zip)        | 5th January 2024    |           |
-| SEGA System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
+| SEGA System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | New games added 2nd Feb 2024. A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
 | The Final Round           | [jtfround](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtfround.zip)      | 17th November 2023  | Beta core was named jttwin16 - uninstall and replace with jtfround |
 | Bad Dudes vs. DragonNinja<br />Heavy Barrel | [jtninja](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtninja.zip) | 17th November 2023 |           |
 | CPS2                      | [jtcps2](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps2.zip)          | 27th October 2023   |           |
