@@ -11,7 +11,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform** | **Core Name**                                                         | **Entered Beta** | **Notes** |
 |--------------------|-----------------------------------------------------------------------|------------------|-----------|
-| The Simpsons<br />Parodius da! | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 | Parodius added 9th Feb 2024. |
+| The Simpsons<br />Parodius da!<br />Vendetta | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 | Parodius added 9th Feb 2024, Vendetta added 16th Feb 2024. |
 | Neo Geo Pocket     | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)  | 5th January 2024 | Monochrome only, colour support coming later. [Important: Make sure you read the instructions here](https://www.patreon.com/posts/neogeo-pocket-95909155). |
 | 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 22nd December 2023 | Vulgus was previously a separate core, which can be downloaded [here](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip) until jt1942 is out of beta. |
 | Splatterhouse      | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)  | 31st October 2023 |           |
