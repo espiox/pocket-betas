@@ -11,15 +11,15 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform** | **Core Name**                                                         | **Entered Beta** | **Notes** |
 |--------------------|-----------------------------------------------------------------------|------------------|-----------|
+| 1943<br />1943 Kai | [jt1943](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1943.zip)  | 1st March 2024 |           |
 | The Simpsons<br />Parodius da!<br />Vendetta | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 | Parodius added 9th Feb 2024, Vendetta added 16th Feb 2024. |
 | Neo Geo Pocket     | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)  | 5th January 2024 | Monochrome only, colour support coming later. [Important: Make sure you read the instructions here](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 22nd December 2023 | Vulgus was previously a separate core, which can be downloaded [here](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip) until jt1942 is out of beta. |
 | Splatterhouse      | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)  | 31st October 2023 |           |
 | Bubble Bobble<br />Tokio | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip)  | 27th October 2023 |           |
 | Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 18th August 2023 |           |
 
 ## When will these cores be released for everyone?
-Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **98 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **97 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
 
 
 ## Public JT Cores
@@ -27,6 +27,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 1st March 2024 |           |
 | Aliens<br />Super Contra<br />Crime Fighters<br />Gang Busters<br />Thunder Cross | [jtaliens](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtaliens.zip) | 2nd February 2024 |           |
 | CPS1.5                    | [jtcps15](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps15.zip)        | 5th January 2024    |           |
 | SEGA System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | New games added 2nd Feb 2024. A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
@@ -50,7 +51,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Side Arms                 | [jtsarms](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsarms.zip)        | 24th February 2023  |           |
 | Street Fighter            | [jtsf](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsf.zip)              | 24th February 2023  |           |
 | Trojan                    | [jttrojan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttrojan.zip)      | 24th February 2023  |           |
-| ~~Vulgus~~                | [jtvulgus](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip)              | ~~24th February 2023~~ | Merged with jt1942 core 17th Nov 2023. A backup can be downloaded [here](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip) until jt1942 is released on Pocket. |
+| ~~Vulgus~~                | [jtvulgus](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip)              | ~~24th February 2023~~ | Merged with jt1942 core 17th Nov 2023. |
 | Karnov                    | [jtkarnov](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkarnov.zip)      | 3rd February 2023   |           |
 | Contra                    | [jtcontra](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcontra.zip)      | 3rd February 2023   |           |
 | Double Dragon             | [jtdd](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtdd.zip)              | 2nd December 2022   |           |
