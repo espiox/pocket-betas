@@ -11,15 +11,16 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform** | **Core Name**                                                                        | **Entered Beta** | **Notes** |
 |--------------------|--------------------------------------------------------------------------------------|------------------|-----------|
+| Karate Champ       | [jtkchamp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkchamp.zip) | 29th March 2024  |           |
 | MX5000             | [jtmx5k](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmx5k.zip)  | 15th March 2024  |           |
 | 1943<br />1943 Kai | [jt1943](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1943.zip)  | 1st March 2024   |           |
 | The Simpsons<br />Parodius da!<br />Vendetta | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 | Parodius added 9th Feb 2024, Vendetta added 16th Feb 2024. |
 | Neo Geo Pocket     | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)    | 5th January 2024 | Monochrome only, colour support coming later. [Important: Make sure you read the instructions here](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| Splatterhouse      | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip) | 31st October 2023 |           |
+| Splatterhouse<br />Galaga '88 | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip) | 31st October 2023 | Galaga support added 29th March 2024. |
 | Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 18th August 2023 |           |
 
 ## When will these cores be released for everyone?
-Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **97 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **100 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
 
 
 ## Public JT Cores
