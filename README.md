@@ -15,7 +15,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 | Karate Champ              | [jtkchamp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkchamp.zip)      | 29th March 2024     |           |
 | The Simpsons<br />Parodius da!<br />Vendetta | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 | Parodius added 9th Feb 2024, Vendetta added 16th Feb 2024. |
 | Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome only, colour support coming later. [Important: Make sure you read the instructions here](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| Namco System 1            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 19th April 2024. |
+| Namco System 1            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 26th April 2024. |
 
 ## When will these cores be released for everyone?
 Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **100 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
