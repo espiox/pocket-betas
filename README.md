@@ -5,27 +5,28 @@ Below is a list of [Jotego](https://www.patreon.com/jotego)'s work-in-progress b
 **[Latest jtbeta.zip file (5th Jan 2024)](https://www.patreon.com/posts/neogeo-pocket-95909155)**
 
 There are two ways to install beta cores:
-* **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), [Pupdate](https://github.com/mattpannella/pupdate) or [Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
+* **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
 * **Manual Mode:** Unzip jtbeta.zip and place the beta.bin file into "Assets/[core]/common" for each core.
 If you have issues with installation, ensure all your cores are up-to-date, and check [this article by Jotego](https://www.patreon.com/posts/unplayable-only-92457856).
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Commando                  | [jtcommnd](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcommnd.zip)      | 5th April 2024      |           |
-| Karate Champ              | [jtkchamp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkchamp.zip)      | 29th March 2024     |           |
-| The Simpsons<br />Parodius da!<br />Vendetta | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 11th August 2023 | Parodius added 9th Feb 2024, Vendetta added 16th Feb 2024. |
-| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome only, colour support coming later. [Important: Make sure you read the instructions here](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| Namco System 1            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 26th April 2024. |
+| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome only, colour support coming soon. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155). |
+| Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 3rd May 2024 |
 
 ## When will these cores be released for everyone?
-Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **100 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **101 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
 
 
 ## Public JT Cores
-These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync), the updater apps by [mattpannella](https://github.com/mattpannella/pocket-updater-utility) and [RetroDriven](https://github.com/RetroDriven/Pocket_Updater), and [JTBIN](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links below).
+These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater), or by downloading directly from [GitHub](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links to each core below).
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Toki                      | [jttoki](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttoki.zip)          | 3rd May 2024        |           |
+| Commando                  | [jtcommnd](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcommnd.zip)      | 3rd May 2024        |           |
+| Karate Champ              | [jtkchamp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkchamp.zip)      | 3rd May 2024        |           |
+| The Simpsons<br />Parodius da!<br />Vendetta | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)  | 3rd May 2024        |           |
 | Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 19th April 2024 |           |
 | MX5000                    | [jtmx5k](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmx5k.zip)          | 19th April 2024     |           |
 | 1943<br />1943 Kai | [jt1943](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1943.zip)                 | 5th April 2024      |           |
@@ -33,12 +34,12 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | 1942<br />Pirate Ship Higemaru<br />Vulgus | [jt1942](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1942.zip)  | 1st March 2024 |           |
 | Aliens<br />Super Contra<br />Crime Fighters<br />Gang Busters<br />Thunder Cross | [jtaliens](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtaliens.zip) | 2nd February 2024 |           |
 | CPS1.5                    | [jtcps15](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps15.zip)        | 5th January 2024    |           |
-| SEGA System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | New games added 2nd Feb 2024. A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
+| Sega System 16A           | [jts16](https://www.patreon.com/posts/system-16-85773714)                                    | 17th November 2023  | New games added 2nd Feb 2024. A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
 | The Final Round           | [jtfround](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtfround.zip)      | 17th November 2023  | Beta core was named jttwin16 - uninstall and replace with jtfround |
 | Bad Dudes vs. DragonNinja<br />Heavy Barrel | [jtninja](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtninja.zip) | 17th November 2023 |           |
 | CPS2                      | [jtcps2](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps2.zip)          | 27th October 2023   |           |
 | Tiger Road<br />F1 Dream  | [jttora](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttora.zip)          | 6th October 2023    | F1 Dream added 17th Nov 2023 |
-| SEGA System 16B           | [jts16b](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts16b.zip)          | 22nd September 2023 | A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
+| Sega System 16B           | [jts16b](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts16b.zip)          | 22nd September 2023 | A combined S16A+B core is available [here](https://github.com/espiox/jts16_complete) |
 | Super Hang-on             | [jtshanon](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshanon.zip)      | 22nd September 2023 |           |
 | Black Tiger               | [jtbtiger](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbtiger.zip)      | 11th August 2023    |           |
 | Haunted Castle            | [jtcastle](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcastle.zip)      | 30th June 2023      |           |
@@ -54,7 +55,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Side Arms                 | [jtsarms](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsarms.zip)        | 24th February 2023  |           |
 | Street Fighter            | [jtsf](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsf.zip)              | 24th February 2023  |           |
 | Trojan                    | [jttrojan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttrojan.zip)      | 24th February 2023  |           |
-| ~~Vulgus~~                | [jtvulgus](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip)              | ~~24th February 2023~~ | Merged with jt1942 core 17th Nov 2023. |
+| ~~Vulgus~~                | [jtvulgus](https://github.com/espiox/pocket-betas/blob/main/jtvulgus_final.zip)              | ~~24th February 2023~~ | Merged into jt1942 core 17th Nov 2023. |
 | Karnov                    | [jtkarnov](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkarnov.zip)      | 3rd February 2023   |           |
 | Contra                    | [jtcontra](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcontra.zip)      | 3rd February 2023   |           |
 | Double Dragon             | [jtdd](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtdd.zip)              | 2nd December 2022   |           |
@@ -64,7 +65,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Konami’s Ping Pong        | [jtpinpon](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpinpon.zip)      | 2nd December 2022   |           |
 | Mikie                     | [jtmikie](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmikie.zip)        | 2nd December 2022   |           |
 | Road Fighter              | [jtroadf](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtroadf.zip)        | 2nd December 2022   |           |
-| Super Basketball          | [jtsbaskt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsbaskt.zip)      | 2nd December 2022   | Additional game versions added 17th Nov 2023  |
+| Super Basketball          | [jtsbaskt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsbaskt.zip)      | 2nd December 2022   |           |
 | Track & Field             | [jttrack](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttrack.zip)        | 2nd December 2022   |           |
 | Yie Ar Kung-fu            | [jtyiear](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtyiear.zip)        | 2nd December 2022   |           |
 | Roc’n Rope                | [jtroc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtroc.zip)            | 2nd December 2022   |           |
@@ -76,8 +77,8 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 ## These cores all have weird names in my Pocket menu!
 If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
 * [Pupdate](https://github.com/mattpannella/pupdate) and [Pocket Updater](https://github.com/RetroDriven/Pocket_Updater) include a setting to automatically correct JT platform names when installing.
-* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pre-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images. It can help grab any necessary files needed to run the cores, too.
-* Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card (these are also available via Pocket Sync, see above).
+* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pre-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images.
+* Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card (also available via Pocket Sync, see above).
 
 
  _I'm not associated with Jotego, aside from being a Patreon supporter. If you have an issue/request for this page, please [raise an issue](https://github.com/espiox/pocket-betas/issues) and I'll look into it. If you have issues with installing cores, check [this article by Jotego](https://www.patreon.com/posts/unplayable-only-92457856)._
