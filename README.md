@@ -2,7 +2,7 @@
 
 Below is a list of [Jotego](https://www.patreon.com/jotego)'s work-in-progress beta cores for Analogue Pocket. Starting in September 2023, a jtbeta.zip file is needed in order to use beta releases - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**[Latest jtbeta.zip file (5th Jan 2024)](https://www.patreon.com/posts/neogeo-pocket-95909155)**
+**[Latest jtbeta.zip file (24th May 2024)](https://www.patreon.com/posts/system-18-more-104841078)**
 
 There are two ways to install beta cores:
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
@@ -11,8 +11,9 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       |           |
 | Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome only, colour support coming soon. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 3rd May 2024 |
+| Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 24th May 2024 |
 
 ## When will these cores be released for everyone?
 Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **101 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
