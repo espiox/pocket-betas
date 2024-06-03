@@ -11,7 +11,8 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       |           |
+| Bionic Commando           | [jtbiocom](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbiocom.zip)      | 31st May 2024       |           |
+| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Alien Storm added 31st May 2024 |
 | Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome only, colour support coming soon. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155). |
 | Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 24th May 2024 |
 
