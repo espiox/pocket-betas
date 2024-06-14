@@ -11,13 +11,21 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Sly Spy                   | [jtslyspy](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtslyspy.zip)      | 14th June 2024      |           |
 | Bionic Commando           | [jtbiocom](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbiocom.zip)      | 31st May 2024       |           |
-| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Alien Storm added 31st May 2024 |
+| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Cluth Hitter added 14th June 2024 |
 | Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome only, colour support coming soon. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 24th May 2024 |
+| Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 14th June 2024 |
 
 ## When will these cores be released for everyone?
 Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **101 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+
+## These cores all have weird names in my Pocket menu!
+If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
+* [Pupdate](https://github.com/mattpannella/pupdate) and [Pocket Updater](https://github.com/RetroDriven/Pocket_Updater) include a setting to automatically correct JT platform names when installing.
+* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pre-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images.
+* Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card (also available via Pocket Sync, see above).
+
 
 
 ## Public JT Cores
@@ -76,11 +84,6 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Ghosts’n Goblins          | [jtgng](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgng.zip)            | 2nd December 2022   |           |
 
 
-## These cores all have weird names in my Pocket menu!
-If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
-* [Pupdate](https://github.com/mattpannella/pupdate) and [Pocket Updater](https://github.com/RetroDriven/Pocket_Updater) include a setting to automatically correct JT platform names when installing.
-* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pre-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images.
-* Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card (also available via Pocket Sync, see above).
 
 
  _I'm not associated with Jotego, aside from being a Patreon supporter. If you have an issue/request for this page, please [raise an issue](https://github.com/espiox/pocket-betas/issues) and I'll look into it. If you have issues with installing cores, check [this article by Jotego](https://www.patreon.com/posts/unplayable-only-92457856)._
