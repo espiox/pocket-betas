@@ -11,11 +11,9 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Fast Lane                 | [jtflane](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflane.zip)        | 12th July 2024      |           |
 | Sly Spy                   | [jtslyspy](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtslyspy.zip)      | 14th June 2024      |           |
-| Bionic Commando           | [jtbiocom](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbiocom.zip)      | 31st May 2024       |           |
-| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Cluth Hitter added 14th June 2024 |
-| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome only, colour support coming soon. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155). |
-| Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 31st October 2023   | New games added 14th June 2024 |
+| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Moonwalker added 12th July 2024 |
 
 ## When will these cores be released for everyone?
 Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the current average is around **101 days**. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
@@ -33,6 +31,9 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 5th January 2024    | Monochrome games only. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155). |
+| Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 12th July 2024      |           |
+| Bionic Commando           | [jtbiocom](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbiocom.zip)      | 12th July 2024      |           |
 | Toki                      | [jttoki](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttoki.zip)          | 3rd May 2024        |           |
 | Commando                  | [jtcommnd](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcommnd.zip)      | 3rd May 2024        |           |
 | Karate Champ              | [jtkchamp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkchamp.zip)      | 3rd May 2024        |           |
