@@ -11,6 +11,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
 | Fast Lane                 | [jtflane](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflane.zip)        | 12th July 2024      |           |
 | Sly Spy                   | [jtslyspy](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtslyspy.zip)      | 14th June 2024      |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Moonwalker added 12th July 2024 |
