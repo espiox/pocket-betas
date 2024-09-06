@@ -11,14 +11,15 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155) TLDR: You need to go through the BIOS setup menus on every core boot (yes, every time), press select to "power off" the system, and then select your game. |
+| WWF Superstars            | [jtwwfss](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwwfss.zip)        | 6th September 2024  |           |
+| The Speed Rumbler         | [jtrumble](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrumble.zip)      | 6th September 2024  |           |
+| Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155) TLDR: You need to go through the BIOS setup menus on every core boot (yes, every time). To change games, press select to "power off" the system, and then select your game. |
 | Circus Charlie            | [jtcircus](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcircus.zip)      | 30th August 2024    |           |
-| Trick Trap                | [jtlabrun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtlabrun.zip)      | 9th August 2024     |           |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Moonwalker added 12th July 2024 |
 
 ## When will these cores be released for everyone?
-Cores are made available to the public after a few weeks or a few months, depending on whether the core is a brand new core, or a port from MiSTer - the average is around 3 months. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+Cores are made available to the public once main development is finished and bugs have been ironed out, around 6 months on average. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
 
 ## These cores all have weird names in my Pocket menu!
 If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
@@ -33,10 +34,11 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Trick Trap                | [jtlabrun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtlabrun.zip)      | 6th September 2024  |           |
 | Parodius Da!              | [jtparoda](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtparoda.zip)      | 30th August 2024    | Split from jtsimson core |
 | Fast Lane                 | [jtflane](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflane.zip)        | 9th August 2024     |           |
 | Sly Spy                   | [jtslyspy](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtslyspy.zip)      | 9th August 2024     |           |
-| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 12th July 2024      | Monochrome games only. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155) TLDR: You need to go through the BIOS setup menus on every core boot (yes, every time), press select to "power off" the system, and then select your game. |
+| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 12th July 2024      | Monochrome games only. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155) TLDR: You need to go through the BIOS setup menus on every core boot (yes, every time). To change games, press select to "power off" the system, and then select your game. |
 | Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 12th July 2024      |           |
 | Bionic Commando           | [jtbiocom](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbiocom.zip)      | 12th July 2024      |           |
 | Toki                      | [jttoki](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttoki.zip)          | 3rd May 2024        |           |
