@@ -11,10 +11,10 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Midnight Resistance       | [jtmidres](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmidres.zip)      | 20th September 2024 |           |
 | WWF Superstars            | [jtwwfss](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwwfss.zip)        | 6th September 2024  |           |
 | The Speed Rumbler         | [jtrumble](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrumble.zip)      | 6th September 2024  |           |
-| Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155) TLDR: You need to go through the BIOS setup menus on every core boot (yes, every time). To change games, press select to "power off" the system, and then select your game. |
-| Circus Charlie            | [jtcircus](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcircus.zip)      | 30th August 2024    |           |
+| Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Moonwalker added 12th July 2024 |
 
@@ -34,11 +34,12 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Circus Charlie            | [jtcircus](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcircus.zip)      | 20th September 2024 |           |
 | Trick Trap                | [jtlabrun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtlabrun.zip)      | 6th September 2024  |           |
 | Parodius Da!              | [jtparoda](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtparoda.zip)      | 30th August 2024    | Split from jtsimson core |
 | Fast Lane                 | [jtflane](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflane.zip)        | 9th August 2024     |           |
 | Sly Spy                   | [jtslyspy](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtslyspy.zip)      | 9th August 2024     |           |
-| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 12th July 2024      | Monochrome games only. [**Read these instructions!**](https://www.patreon.com/posts/neogeo-pocket-95909155) TLDR: You need to go through the BIOS setup menus on every core boot (yes, every time). To change games, press select to "power off" the system, and then select your game. |
+| Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 12th July 2024      | Monochrome games only. [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Namco System I            | [jtshouse](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshouse.zip)      | 12th July 2024      |           |
 | Bionic Commando           | [jtbiocom](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbiocom.zip)      | 12th July 2024      |           |
 | Toki                      | [jttoki](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttoki.zip)          | 3rd May 2024        |           |
@@ -72,7 +73,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Section Z<br />Legendary Wings | [jtsectnz](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsectnz.zip) | 24th February 2023  |           |
 | Side Arms                 | [jtsarms](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsarms.zip)        | 24th February 2023  |           |
 | Street Fighter            | [jtsf](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsf.zip)              | 24th February 2023  |           |
-| Trojan                    | [jttrojan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttrojan.zip)      | 24th February 2023  |           |
+| Trojan                    | [jttrojan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttrojan.zip)      | 24th February 2023  | Avengers added 20th September 2024. |
 | ~~Vulgus~~                | ~~jtvulgus~~                                                                                 | ~~24th February 2023~~ | Merged into jt1942 core 17th Nov 2023. |
 | Karnov                    | [jtkarnov](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkarnov.zip)      | 3rd February 2023   |           |
 | Contra                    | [jtcontra](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcontra.zip)      | 3rd February 2023   |           |
