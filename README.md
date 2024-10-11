@@ -2,7 +2,7 @@
 
 Below is a list of [Jotego](https://www.patreon.com/jotego)'s work-in-progress beta cores for Analogue Pocket. A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**[Latest jtbeta.zip file (24th May 2024)](https://www.patreon.com/posts/system-18-more-104841078)**
+**[Latest jtbeta.zip file (11th October 2024)](https://www.patreon.com/posts/jtxmen-beta-113824785)**
 
 There are two ways to install beta cores:
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
