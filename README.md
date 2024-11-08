@@ -11,9 +11,8 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Tehkan World Cup          | [jtwc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwc.zip)              | 8th November 2024   |           |
 | X-Men                     | [jtxmen](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtxmen.zip)          | 11th October 2024   |           |
-| Midnight Resistance       | [jtmidres](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmidres.zip)      | 20th September 2024 |           |
-| WWF Superstars            | [jtwwfss](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwwfss.zip)        | 6th September 2024  |           |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Moonwalker added 12th July 2024 |
@@ -34,6 +33,8 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Midnight Resistance       | [jtmidres](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmidres.zip)      | 8th November 2024   |           |
+| WWF Superstars            | [jtwwfss](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwwfss.zip)        | 8th November 2024   |           |
 | The Speed Rumbler         | [jtrumble](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrumble.zip)      | 11th October 2024   |           |
 | Circus Charlie            | [jtcircus](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcircus.zip)      | 20th September 2024 |           |
 | Trick Trap                | [jtlabrun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtlabrun.zip)      | 6th September 2024  |           |
