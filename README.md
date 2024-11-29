@@ -1,17 +1,19 @@
-# Analogue Pocket JT Beta Core Status
+# Analogue Pocket Beta Core Status
 
-Below is a list of [Jotego](https://www.patreon.com/jotego)'s work-in-progress beta cores for Analogue Pocket. A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
+# Jotego Beta Cores
+
+Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
 **[Latest jtbeta.zip file (11th October 2024)](https://www.patreon.com/posts/jtxmen-beta-113824785)**
 
-There are two ways to install beta cores:
+There are two ways to install beta cores from [Jotego](https://www.patreon.com/jotego):
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
 * **Manual Mode:** Unzip jtbeta.zip and place the beta.bin file into "Assets/[core]/common" for each core.
 If you have issues with installation, ensure all your cores are up-to-date, and check [this article by Jotego](https://www.patreon.com/posts/unplayable-only-92457856).
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Tehkan World Cup          | [jtwc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwc.zip)              | 8th November 2024   |           |
+| Tehkan World Cup<br />Grid Iron | [jtwc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwc.zip)        | 8th November 2024   | Grid Iron added 29th November 2024 |
 | X-Men                     | [jtxmen](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtxmen.zip)          | 11th October 2024   |           |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
