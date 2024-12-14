@@ -13,6 +13,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| The FairyLand Story       | [jtflstory](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflstory.zip)    | 13th December 2024  |           |
 | Tehkan World Cup<br />Grid Iron | [jtwc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwc.zip)        | 8th November 2024   | Grid Iron added 29th November 2024 |
 | X-Men                     | [jtxmen](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtxmen.zip)          | 11th October 2024   |           |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
