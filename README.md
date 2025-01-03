@@ -4,7 +4,7 @@
 
 Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**[Latest jtbeta.zip file (11th October 2024)](https://www.patreon.com/posts/jtxmen-beta-113824785)**
+**[Latest jtbeta.zip file (3rd January 2025)](https://www.patreon.com/posts/ninja-gaiden-119227554)**
 
 There are two ways to install beta cores from [Jotego](https://www.patreon.com/jotego):
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
@@ -13,6 +13,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Ninja Gaiden              | [jtgaiden](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgaiden.zip)      | 3rd January 2025    |           |
 | Konami Twin 16            | [jttwin16](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttwin16.zip)      | 31st December 2024  |           |
 | The FairyLand Story       | [jtflstory](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflstory.zip)    | 13th December 2024  |           |
 | X-Men                     | [jtxmen](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtxmen.zip)          | 11th October 2024   |           |
