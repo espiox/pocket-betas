@@ -4,7 +4,7 @@
 
 Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**[Latest jtbeta.zip file (4th April 2025)](https://www.patreon.com/posts/bronx-cycle-125924823)**
+**Latest jtbeta.zip file (4th April 2025):** [Download from Patreon post](https://www.patreon.com/posts/bronx-cycle-125924823) or [click here if you've connected your Patreon and GitHub accounts](https://downgit.github.io/#/home?url=https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
 
 There are two ways to install beta cores from [Jotego](https://www.patreon.com/jotego):
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
@@ -13,7 +13,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Rolling Thunder           | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     |           |
+| Rolling Thunder<br />Sky Kid Deluxe | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Sky Kid added 9th May 2025 |
 | The FairyLand Story<br />Typhoon Gal<br />Rumba Lumber<br />NY Captor<br />Bronx | [jtflstory](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflstory.zip) | 13th December 2024    | Bronx added 4th April 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
