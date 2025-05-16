@@ -4,7 +4,7 @@
 
 Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**Latest jtbeta.zip file (4th April 2025):** [Download from Patreon post](https://www.patreon.com/posts/bronx-cycle-125924823) or [from GitHub (if you've connected your Patreon account)](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
+**Latest jtbeta.zip file (4th April 2025):** [Download from this Patreon post](https://www.patreon.com/posts/bronx-cycle-125924823) or [from GitHub (if you've connected your Patreon account)](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
 
 There are two ways to install beta cores from [Jotego](https://www.patreon.com/jotego):
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
@@ -13,8 +13,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Rolling Thunder<br />Sky Kid Deluxe | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Sky Kid added 9th May 2025 |
-| The FairyLand Story<br />Typhoon Gal<br />Rumba Lumber<br />NY Captor<br />Bronx | [jtflstory](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflstory.zip) | 13th December 2024    | Bronx added 4th April 2025 |
+| Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Wonder Momo and Hopping Mappy added 16th May 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Moonwalker added 12th July 2024 |
@@ -35,6 +34,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| The FairyLand Story<br />Typhoon Gal<br />Rumba Lumber<br />NY Captor<br />Bronx | [jtflstory](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflstory.zip) | 16th May 2025 |           |
 | Ninja Gaiden<br />Wild Fang<br />Raiga | [jtgaiden](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgaiden.zip) | 4th April 025 |         |
 | X-Men                     | [jtxmen](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtxmen.zip)          | 21st March 2025     |           |
 | Konami Twin 16            | [jttwin16](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttwin16.zip)      | 21st March 2025     |           |
