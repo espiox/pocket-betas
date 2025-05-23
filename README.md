@@ -13,6 +13,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Pac-Land                  | [jtpaclan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpaclan.zip)      | 23rd May 2025       |           |
 | Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Wonder Momo and Hopping Mappy added 16th May 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
