@@ -17,7 +17,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 | Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Metro Cross added 6th June 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
-| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Laser Ghost added 13th June 2025 |
+| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Desert Breaker added 20th June 2025 |
 
 ## When will these cores be released for everyone?
 Cores are made available to the public once main development is finished and bugs have been ironed out, around 6 months on average. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
