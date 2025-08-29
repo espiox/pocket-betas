@@ -13,7 +13,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Ajax                      | [jtajax](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtajax.zip)          | 4th July 2025       |           |
+| Surprise Attack           | [jtsuratk](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsuratk.zip)      | 29th August 2025    |           |
 | Pac-Land                  | [jtpaclan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpaclan.zip)      | 23rd May 2025       |           |
 | Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Metro Cross added 6th June 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
@@ -36,6 +36,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Ajax                      | [jtajax](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtajax.zip)          | 29th August 2025    |           |
 | The FairyLand Story<br />Typhoon Gal<br />Rumba Lumber<br />NY Captor<br />Bronx | [jtflstory](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflstory.zip) | 16th May 2025 |           |
 | Ninja Gaiden<br />Wild Fang<br />Raiga | [jtgaiden](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgaiden.zip) | 4th April 025 |         |
 | X-Men                     | [jtxmen](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtxmen.zip)          | 21st March 2025     |           |
