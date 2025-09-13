@@ -17,7 +17,7 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 | Pac-Land                  | [jtpaclan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpaclan.zip)      | 23rd May 2025       |           |
 | Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Metro Cross added 6th June 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
-| Sunset Riders             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      |           |
+| Sunset Riders<br />Lightning Fighters<br />Golfing Greats             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      | Golfing Greats added 12th September 2025 |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Desert Breaker added 20th June 2025 |
 
 ## When will these cores be released for everyone?
@@ -77,7 +77,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | The NewZealand Story<br />Arkanoid: Revenge of DOH<br />Dr. Toppel’s Adventure<br />Extermination<br />Insector-X<br />Kageki | [jtkiwi](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkiwi.zip) | 12th May 2023      |           |
 | Combat School             | [jtcomsc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcomsc.zip)        | 12th May 2023       |           |
 | CPS1                      | [jtcps1](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps1.zip)          | 28th April 2023     |           |
-| Out Run<br />Turbo OutRun | ~~jtoutrun~~      | 24th March 2023     | Discontinued indefinitely 13th June 2025 due to unresolvable bugs on Pocket. The last new build can be downloaded [here](https://github.com/jotego/jtbin/blob/8b51d1d5f73c85e16d766b33c0968eadc5173e00/pocket/zips/jotego.jtoutrun.zip). |
+| Out Run<br />Turbo OutRun | [jtoutrun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtoutrun.zip)      | 24th March 2023     | Was discontinued, but has been reinstated on Pocket as the issues have been resolved. |
 | Robocop<br />Hippodrome   | [jtcop](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcop.zip)            | 24th March 2023     |           |
 | Exed Exes                 | [jtexed](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtexed.zip)          | 24th February 2023  |           |
 | Gun.Smoke                 | [jtgunsmk](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgunsmk.zip)      | 24th February 2023  |           |
