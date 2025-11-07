@@ -4,7 +4,7 @@
 
 Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**Latest jtbeta.zip file (4th April 2025):** Download from [Patreon](https://www.patreon.com/file?h=133323806&m=494294847) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
+**Latest jtbeta.zip file (7th November 2025):** Download from [Patreon](https://www.patreon.com/file?h=143057960&m=561069453) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
 
 There are two ways to install beta cores from [Jotego](https://www.patreon.com/jotego):
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
@@ -13,12 +13,12 @@ If you have issues with installation, ensure all your cores are up-to-date, and 
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Surprise Attack           | [jtsuratk](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsuratk.zip)      | 29th August 2025    |           |
+| Run & Gun                  | [jtrungun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrungun.zip)     | 7th November 2025       |           |
 | Pac-Land                  | [jtpaclan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpaclan.zip)      | 23rd May 2025       |           |
 | Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Metro Cross added 6th June 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
-| Sunset Riders<br />Lightning Fighters<br />Golfing Greats             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      | Golfing Greats added 12th September 2025 |
-| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | Desert Breaker added 20th June 2025 |
+| Sunset Riders<br />Lightning Fighters<br />Golfing Greats<br />TMNT: Turtles in Time             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      | TMNT2 added 10th October 2025 |
+| Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 24th May 2024       | More games added 31st October 2025 |
 
 ## When will these cores be released for everyone?
 Cores are made available to the public once main development is finished and bugs have been ironed out, around 6 months on average. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
@@ -47,7 +47,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | The Speed Rumbler         | [jtrumble](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrumble.zip)      | 11th October 2024   |           |
 | Circus Charlie            | [jtcircus](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcircus.zip)      | 20th September 2024 |           |
 | Trick Trap                | [jtlabrun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtlabrun.zip)      | 6th September 2024  |           |
-| Parodius Da!              | [jtparoda](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtparoda.zip)      | 30th August 2024    | Split from jtsimson core |
+| Parodius Da!              | [jtparoda](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtparoda.zip)      | 30th August 2024    | Surprise Attack merged into this core 7th November 2025 |
 | Fast Lane                 | [jtflane](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtflane.zip)        | 9th August 2024     |           |
 | Sly Spy                   | [jtslyspy](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtslyspy.zip)      | 9th August 2024     |           |
 | Neo Geo Pocket            | [jtngp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngp.zip)            | 12th July 2024      | Monochrome games only. [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
