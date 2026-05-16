@@ -4,37 +4,39 @@
 
 Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**Latest jtbeta.zip file (7th November 2025):** Download from [Patreon](https://www.patreon.com/file?h=143057960&m=561069453) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
-
-There are two ways to install beta cores from [Jotego](https://www.patreon.com/jotego):
-* **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater). Just place jtbeta.zip in the root of your SD card and run the updater - they'll handle the rest.
-* **Manual Mode:** Unzip jtbeta.zip and place the beta.bin file into "Assets/[core]/common" for each core.
-If you have issues with installation, ensure all your cores are up-to-date, and check [this article by Jotego](https://www.patreon.com/posts/unplayable-only-92457856).
+**Latest jtbeta.zip file (16th May 2026):** Download from [Patreon](https://www.patreon.com/file?h=158431078&m=664382291) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Gradius III               | [jtgrad3](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgrad3.zip)        | 16th May 2026       |           |
+| Caliber 50                | [jtcal50](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcal50.zip)        | 13th March 2026     |           |
 | Premier Soccer            | [jtrungun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrungun.zip)      | 2nd January 2026    |           |
-| Run & Gun                 | [jtprmr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtprmr.zip)          | 7th November 2025   |           |
-| Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 25th April 2025     | Metro Cross added 6th June 2025 |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
 | Sunset Riders<br />Lightning Fighters<br />Golfing Greats<br />TMNT: Turtles in Time             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      | TMNT2 added 10th October 2025 |
 
+## How to install
+* **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) or [Pupdate](https://github.com/mattpannella/pupdate). Just place jtbeta.zip in the root of your SD card and install the cores/run an update.
+* **Manual Mode:** Unzip jtbeta.zip and place the beta.bin file into "Assets/jtpatreon/common" on your Pocket SD card.
+If you have issues with installation, ensure all your cores are up-to-date, and check [this article by Jotego](https://www.patreon.com/posts/unplayable-only-92457856).
+
 ## When will these cores be released for everyone?
-Cores are made available to the public once main development is finished and bugs have been ironed out, around 6 months on average. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
+Cores are made available to the public once main development is finished and bugs have been ironed out - sometimes that's a few months, sometimes it's like 2 years. If you enjoy the work José and his team do, I strongly encourage you to support their [Patreon](https://www.patreon.com/jotego) and help fund future FPGA development.
 
 ## These cores all have weird names in my Pocket menu!
 If you want your JT cores to have more accurate names, manufacturer info and images, there's a few easy ways to fix that:
-* [Pupdate](https://github.com/mattpannella/pupdate) and [Pocket Updater](https://github.com/RetroDriven/Pocket_Updater) include a setting to automatically correct JT platform names when installing.
-* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pre-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images.
+* [Pupdate](https://github.com/mattpannella/pupdate) includes a setting to automatically correct JT platform names when installing.
+* [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) can download pr e-made platform metadata and images; it's also the easiest way to manually edit platform info, or make your own images.
 * Dyreschlock's [Platform Overrides repo](https://github.com/dyreschlock/pocket-platform-images) has a bunch of great pre-made platform info files and images for current and future JT cores that you can drag and drop onto your SD card (also available via Pocket Sync, see above).
 
 
 
 ## Public JT Cores
-These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync)/[Pupdate](https://github.com/mattpannella/pupdate)/[Pocket Updater](https://github.com/RetroDriven/Pocket_Updater), or by downloading directly from [GitHub](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links to each core below).
+These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) or [Pupdate](https://github.com/mattpannella/pupdate), or by downloading directly from [GitHub](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links to each core below).
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Run & Gun                 | [jtprmr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtprmr.zip)          | 16th May 2026       |           |
+| Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 16th May 2026       |           |
 | Pac-Land                  | [jtpaclan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpaclan.zip)      | 2nd January 2026    |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 12th December 2025  |           |
 | Ajax                      | [jtajax](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtajax.zip)          | 29th August 2025    |           |
