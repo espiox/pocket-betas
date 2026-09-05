@@ -4,15 +4,19 @@
 
 Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**Latest jtbeta.zip file (16th May 2026):** Download from [Patreon](https://www.patreon.com/file?h=158431078&m=664382291) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
+**Latest jtbeta.zip file (12th June 2026):** Download from [Patreon](https://www.patreon.com/file?h=160920444&m=680291331) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Taito System X            | [jttaitox](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttaitox.zip)      | 4th September 2026  |           |
+| Block Out                 | [jtblkout](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtblkout.zip)      | 16th August 2026    |           |
+| Volfied                   | [jtvlfied](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtvlfied.zip)      | 16th August 2026    |           |
+| Rastan<br />Operation Wolf<br />Rainbow Islands | [jtrastan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrastan.zip)      | 24th July 2026 | Rastan core re-entered beta and now supports more games |
+| Gals Panic                | [jtgals](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgals.zip)          | 17th July 2026      |           |
+| ~~CPS3~~                  | ~~jtcps3~~                                                                                   | 12th June 2026      | Not coming to Pocket |
 | Gradius III               | [jtgrad3](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgrad3.zip)        | 16th May 2026       |           |
 | Caliber 50                | [jtcal50](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcal50.zip)        | 13th March 2026     |           |
-| Premier Soccer            | [jtrungun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrungun.zip)      | 2nd January 2026    |           |
-| Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 30th August 2024    | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
-| Sunset Riders<br />Lightning Fighters<br />Golfing Greats<br />TMNT: Turtles in Time             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 27th July 2024      | TMNT2 added 10th October 2025 |
+
 
 ## How to install
 * **Easy Mode:** Use [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) or [Pupdate](https://github.com/mattpannella/pupdate). Just place jtbeta.zip in the root of your SD card and install the cores/run an update.
@@ -33,9 +37,17 @@ If you want your JT cores to have more accurate names, manufacturer info and ima
 ## Public JT Cores
 These cores have been promoted out of beta and are available via [Pocket Sync](https://github.com/neil-morrison44/pocket-sync) or [Pupdate](https://github.com/mattpannella/pupdate), or by downloading directly from [GitHub](https://github.com/jotego/jtbin/tree/master/pocket/zips) (direct links to each core below).
 
+
+
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Run & Gun                 | [jtprmr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtprmr.zip)          | 16th May 2026       |           |
+| Pocket Gal                | [jtpktgal](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpktgal.zip)      | 4th September 2026  |           |
+| Gaelco 1                  | [jtgae1](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgae1.zip)          | 4th September 2026  |           |
+| Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 9th August 2026     | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
+| Sunset Riders<br />Lightning Fighters<br />Golfing Greats<br />TMNT: Turtles in Time             | [jtriders](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtriders.zip)      | 9th August 2026     |           |
+| Double Dribble            | [jtddrbl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtddrbl.zip)        | 9th August 2026     |           |
+| Premier Soccer            | [jtprmr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtprmr.zip)          | 24th July 2026      |           |
+| Run & Gun                 | [jtrungun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrungun.zip)      | 16th May 2026       |           |
 | Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 16th May 2026       |           |
 | Pac-Land                  | [jtpaclan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpaclan.zip)      | 2nd January 2026    |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 12th December 2025  |           |
@@ -60,7 +72,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Commando                  | [jtcommnd](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcommnd.zip)      | 3rd May 2024        |           |
 | Karate Champ              | [jtkchamp](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkchamp.zip)      | 3rd May 2024        |           |
 | The Simpsons<br />Vendetta | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)     | 3rd May 2024        | Parodius Da! split off as jtparoda core 30th August 2024 |
-| Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 19th April 2024 |           |
+| Teenage Mutant Ninja Turtles<br />Missing in Action<br />Punk Shot<br/ >Thunder Cross II | [jttmnt](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttmnt.zip) | 19th April 2024 | Thunder Cross 2 added 9th Augst 2026 |
 | MX5000                    | [jtmx5k](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmx5k.zip)          | 19th April 2024     |           |
 | 1943<br />1943 Kai | [jt1943](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt1943.zip)                 | 5th April 2024      |           |
 | Bubble Bobble<br />Tokio  | [jtbubl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbubl.zip)          | 15th March 2024     |           |
@@ -76,8 +88,8 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Super Hang-on             | [jtshanon](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtshanon.zip)      | 22nd September 2023 |           |
 | Black Tiger               | [jtbtiger](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtbtiger.zip)      | 11th August 2023    |           |
 | Haunted Castle            | [jtcastle](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcastle.zip)      | 30th June 2023      |           |
-| Rastan                    | [jtrastan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrastan.zip)      | 30th June 2023      |           |
-| The NewZealand Story<br />Arkanoid: Revenge of DOH<br />Dr. Toppel’s Adventure<br />Extermination<br />Insector-X<br />Kageki | [jtkiwi](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkiwi.zip) | 12th May 2023      |           |
+| ~~Rastan~~                | ~~jtrastan~~                                                                                 | 30th June 2023      | Re-entered beta 24th June 2026 with new games |
+| The NewZealand Story<br />Arkanoid: Revenge of DOH<br />Dr. Toppel’s Adventure<br />Extermination<br />Insector-X<br />Kageki<br /> | [jtkiwi](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtkiwi.zip) | 12th May 2023      | Chuka Taisen added 16th August 2026 |
 | Combat School             | [jtcomsc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcomsc.zip)        | 12th May 2023       |           |
 | CPS1                      | [jtcps1](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcps1.zip)          | 28th April 2023     |           |
 | Out Run<br />Turbo OutRun | [jtoutrun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtoutrun.zip)      | 24th March 2023     | Was discontinued, but has been reinstated on Pocket as the issues have been resolved. |
