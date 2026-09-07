@@ -2,12 +2,13 @@
 
 # Jotego Beta Cores
 
-Beta cores developed by [Jotego](https://www.patreon.com/jotego). A jtbeta.zip key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
+Beta cores developed by [Jotego](https://www.patreon.com/jotego). A  bgt6 key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
 **Latest jtbeta.zip file (12th June 2026):** Download from [Patreon](https://www.patreon.com/file?h=160920444&m=680291331) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Space Harrier<br />Enduro Racer | [jtharier](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtharier.zip) | 7th September 2026  | Enduro Racer only supports analog controls so is Dock-only for now |
 | Taito System X            | [jttaitox](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttaitox.zip)      | 4th September 2026  |           |
 | Block Out                 | [jtblkout](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtblkout.zip)      | 16th August 2026    |           |
 | Volfied                   | [jtvlfied](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtvlfied.zip)      | 16th August 2026    |           |
