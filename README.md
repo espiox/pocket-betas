@@ -4,14 +4,13 @@
 
 Beta cores developed by [Jotego](https://www.patreon.com/jotego). A  bgt6 key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**Latest jtbeta.zip file (12th June 2026):** Download from [Patreon](https://www.patreon.com/file?h=160920444&m=680291331) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
+**Latest jtbeta.zip file (27th Sept 2026):** Download from [Patreon](https://www.patreon.com/file?h=170729429&m=753272084) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
-| Space Harrier<br />Enduro Racer | [jtharier](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtharier.zip) | 7th September 2026  | Enduro Racer only supports analog controls so is Dock-only for now |
+| Wardner                   | [jtwardnr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwardnr.zip)      | 27th September 2026 |           |
+| Space Harrier<br />Enduro Racer<br />Hang-On | [jtharier](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtharier.zip) | 7th September 2026  | Enduro Racer only supports analog controls so is Dock-only for now. Hang-On added 20th September 2026 |
 | Taito System X            | [jttaitox](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttaitox.zip)      | 4th September 2026  |           |
-| Block Out                 | [jtblkout](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtblkout.zip)      | 16th August 2026    |           |
-| Volfied                   | [jtvlfied](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtvlfied.zip)      | 16th August 2026    |           |
 | Rastan<br />Operation Wolf<br />Rainbow Islands | [jtrastan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrastan.zip)      | 24th July 2026 | Rastan core re-entered beta and now supports more games |
 | Gals Panic                | [jtgals](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgals.zip)          | 17th July 2026      |           |
 | ~~CPS3~~                  | ~~jtcps3~~                                                                                   | 12th June 2026      | Not coming to Pocket |
@@ -42,6 +41,8 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Block Out                 | [jtblkout](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtblkout.zip)      | 27th September 2026 |           |
+| Volfied                   | [jtvlfied](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtvlfied.zip)      | 27th September 2026 |           |
 | Pocket Gal                | [jtpktgal](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpktgal.zip)      | 4th September 2026  |           |
 | Gaelco 1                  | [jtgae1](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgae1.zip)          | 4th September 2026  |           |
 | Neo Geo Pocket Color      | [jtngpc](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtngpc.zip)          | 9th August 2026     | [Instructions](https://www.patreon.com/posts/neogeo-pocket-95909155) UPDATE: A patched BIOS that skips the initial setup is now available via the updaters. |
@@ -49,7 +50,7 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 | Double Dribble            | [jtddrbl](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtddrbl.zip)        | 9th August 2026     |           |
 | Premier Soccer            | [jtprmr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtprmr.zip)          | 24th July 2026      |           |
 | Run & Gun                 | [jtrungun](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrungun.zip)      | 16th May 2026       |           |
-| Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 16th May 2026       |           |
+| Rolling Thunder<br />Sky Kid Deluxe<br />Wonder Momo<br />Hopping Mappy<br />Genpei Tōma Den<br />The Return of Ishtar</br>Metro Cross</br>Alien Sector | [jtthundr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtthundr.zip)      | 16th May 2026       | Alien Sector added 20th September 2026 |
 | Pac-Land                  | [jtpaclan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtpaclan.zip)      | 2nd January 2026    |           |
 | Sega System 18            | [jts18](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jts18.zip)            | 12th December 2025  |           |
 | Ajax                      | [jtajax](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtajax.zip)          | 29th August 2025    |           |
