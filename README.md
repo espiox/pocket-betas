@@ -8,14 +8,15 @@ Beta cores developed by [Jotego](https://www.patreon.com/jotego). A  bgt6 key fi
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Rollergames               | [jtroller](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtroller.zip)      | 12th October 2026   |           |
+| '88 Games                 | [jt88game](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt88game.zip)      | 12th October 2026   |           |
+| Flying Shark<br />Twin Cobra | [jtktiger](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtktiger.zip)   | 12th October 2026   |           |
 | The Simpsons<br />Vendetta<br />Escape Kids | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)     | 2nd October 2026    | Simpsons core re-entered beta and now supports Escape Kids |
 | Wardner                   | [jtwardnr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwardnr.zip)      | 27th September 2026 |           |
 | Space Harrier<br />Enduro Racer<br />Hang-On | [jtharier](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtharier.zip) | 7th September 2026  | Enduro Racer only supports analog controls so is Dock-only for now. Hang-On added 20th September 2026 |
 | Taito System X            | [jttaitox](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttaitox.zip)      | 4th September 2026  |           |
-| Gals Panic                | [jtgals](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgals.zip)          | 17th July 2026      |           |
 | ~~CPS3~~                  | ~~jtcps3~~                                                                                   | 12th June 2026      | Not coming to Pocket |
 | Gradius III               | [jtgrad3](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgrad3.zip)        | 16th May 2026       |           |
-| Caliber 50                | [jtcal50](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcal50.zip)        | 13th March 2026     |           |
 
 
 ## How to install
@@ -41,6 +42,9 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| ~~Slap Fight<br />Tiger-Heli~~ | ~~jtslap~~                                                                              | 12th October 2026   | Not on Pocket/MiSTer; use [Anton Gale's core](https://github.com/antongale/arcade-slapfight) instead |
+| Gals Panic                | [jtgals](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgals.zip)          | 12th October 2026   |           |
+| Caliber 50                | [jtcal50](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcal50.zip)        | 12th October 2026   |           |
 | Sky Kid<br />Dragon Buster | [jtskykid](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtskykid.zip)     | 2nd October 2026    |           |
 | Rastan<br />Operation Wolf<br />Rainbow Islands | [jtrastan](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtrastan.zip)      | 2nd October 2026    |           |
 | Block Out                 | [jtblkout](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtblkout.zip)      | 27th September 2026 |           |
