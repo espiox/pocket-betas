@@ -2,16 +2,17 @@
 
 # Jotego Beta Cores
 
-Beta cores developed by [Jotego](https://www.patreon.com/jotego). A  bgt6 key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
+Beta cores developed by [Jotego](https://www.patreon.com/jotego) and his contributors. A beta key file is needed in order to unlock and play games on these cores - download the latest version from the link below (Patreon login needed). Once cores are released to the public, this file is no longer needed. 
 
-**Latest jtbeta.zip file (27th Sept 2026):** Download from [Patreon](https://www.patreon.com/file?h=170729429&m=753272084) or [GitHub](https://github.com/jotego/jtbeta/blob/master/jtbeta.zip)
+**Latest jtbeta.zip file (27th Sept 2026):** Download from [Patreon](https://www.patreon.com/file?h=170729429&m=753272084)
 
 | **Games/Platform**        | **Core Name**                                                                                | **Entered Beta**    | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Mega Zone                 | [jtmzone](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmzone.zip)        | 15th November 2026  |           |
+| Kickle Cubicle            | [jtmeikyu](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtmeikyu.zip)      | 15th November 2026  |           |
 | Rollergames               | [jtroller](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtroller.zip)      | 12th October 2026   |           |
 | '88 Games                 | [jt88game](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jt88game.zip)      | 12th October 2026   |           |
 | Flying Shark<br />Twin Cobra | [jtktiger](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtktiger.zip)   | 12th October 2026   |           |
-| The Simpsons<br />Vendetta<br />Escape Kids | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)     | 2nd October 2026    | Simpsons core re-entered beta and now supports Escape Kids |
 | Wardner                   | [jtwardnr](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtwardnr.zip)      | 27th September 2026 |           |
 | Space Harrier<br />Enduro Racer<br />Hang-On | [jtharier](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtharier.zip) | 7th September 2026  | Enduro Racer only supports analog controls so is Dock-only for now. Hang-On added 20th September 2026 |
 | Taito System X            | [jttaitox](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jttaitox.zip)      | 4th September 2026  |           |
@@ -42,6 +43,9 @@ These cores have been promoted out of beta and are available via [Pocket Sync](
 
 | **Games/Platform**        | **Core Name**                                                                                | **Public Release**  | **Notes** |
 |---------------------------|----------------------------------------------------------------------------------------------|---------------------|-----------|
+| Arbalester<br />Meta Fox  | [jtarblst](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtarblst.zip)      | 25th October 2026   |           |
+| The Simpsons<br />Vendetta<br />Escape Kids | [jtsimson](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtsimson.zip)     | 25th October 2026   |           |
+| ~~NARC~~                  | ~~jtnarc~~                                                                                   | 25th October 2026   | Not coming to Pocket |
 | ~~Slap Fight<br />Tiger-Heli~~ | ~~jtslap~~                                                                              | 12th October 2026   | Not on Pocket/MiSTer; use [Anton Gale's core](https://github.com/antongale/arcade-slapfight) instead |
 | Gals Panic                | [jtgals](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtgals.zip)          | 12th October 2026   |           |
 | Caliber 50                | [jtcal50](https://github.com/jotego/jtbin/blob/master/pocket/zips/jotego.jtcal50.zip)        | 12th October 2026   |           |
